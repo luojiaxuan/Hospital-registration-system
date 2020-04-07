@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">hospital</string>
+    <string name="login">登陆界面</string>
+    <string name="reg_register">注册界面</string>
+    <string name="input_your_name">输入您的名字</string>
+    <string name="input_your_password">输入您的密码</string>
+    <string name="input_your_password_re">请再次输入您的密码</string>
+    <string name="person_login">登陆</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="register">免费注册</string>
+    <string name="input_your_tel">输入您的电话号码</string>
+    <string name="person_register">点击注册</string>
+    <string name="orderText">预约挂号</string>
+    <string name="order">预约挂号</string>
+    <string name="depart1"><u>骨科</u></string>
+    <string name="depart2"><u>眼科</u></string>
+    <string name="depart3"><u>心血管</u></string>
+    <string name="agenda">日程表</string>
+</resources>
